@@ -1,0 +1,50 @@
+
+.CS .list-container {
+    display: flex;
+    justify-content: space-between; 
+    width: 50%;
+}
+
+    .CS .left-list li:first-child {
+        margin-left: -20px; 
+    }
+    
+    .CS .right-list li:first-child {
+        margin-left: -20px; 
+    }
+    
+    .CS .no-bullet {
+        list-style: none; 
+        
+    }
+
+    .Expr .left-list-one li:first-child {
+        margin-left: -20px; 
+    } 
+        
+ .Expr .no-bullet {
+    list-style: none; 
+    
+}
+.Expr .left-list-two li:first-child {
+    margin-left: -20px; 
+} 
+
+.AcadH .left-list-two .no-bullet {
+    list-style: none;
+}
+
+.AcadH .left-list-two li:first-child {
+    margin-left: -20px; 
+}
+
+body {
+    background-color: white; 
+    color: #333; 
+    font-family: Arial, sans-serif; 
+}
+
+.intro {
+    background-color: #383737; 
+    color: white;
+}
