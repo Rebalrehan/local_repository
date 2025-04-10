@@ -1,0 +1,41 @@
+.leftlist {
+    font-weight: bold;
+    list-style-type: none;
+    margin-left: 450px;
+}
+
+.rightlist{
+    
+    list-style-type: none;
+}
+.biod {
+    
+        display: flex;    
+        
+        width: 100%;
+        justify-content: space-between;
+    
+}
+
+.hdm1{
+    text-align: center;
+}
+
+.bz11{
+    margin-left: auto;
+    margin-right: 100px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse ;
+    text-align: center;
+   
+}
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
+tr:nth-child(even){
+    background-color: #858282;
+}
